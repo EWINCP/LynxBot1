@@ -13,17 +13,8 @@ import { en, es, id, ar, pt } from "./lib/idiomas/total-idiomas.js"
 // [ES] > Agrega el número que será Bot y los que serán propietarios.
 // [EN] > Add the number that will be Bot and those that will be owners.
 global.owner = [
-["5214774444444", '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 💖🐈', true], //𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿
-["5492266613038"], 
-["5573031859"],
-["5218715746374"],
-["593968585383"],
-["595976126756"],
-["584125778026"],
-["593968263524"],
-["5215539356057"],
-["573012482597"],
-["51968374620"]]
+["7202218042", 'Lynx Bot🐆', true], 
+["5579436135"]]
 
 global.mods = []
 global.prems = []
@@ -47,7 +38,7 @@ global.keepAliveRender = 0; //Solo valores: 1 o 0
 // ❰❰ methodCode ❱❱
 // [ES] > Agregue el número del Bot en "botNumberCode" si desea recibir código de 8 dígitos sin registrar el número en la consola.
 // [EN] > Add the Bot number in "botNumberCode" if you want to receive 8-digit code without registering the number in the console.
-global.botNumberCode = "" //example: "+59309090909"
+global.botNumberCode = "7202218042" //example: "+59309090909"
 global.confirmCode = "" // No tocar esto : Do not touch this line
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
@@ -147,7 +138,7 @@ global.author = ` ╭ 𝗚𝗮𝘁𝗮 𝗗𝗶𝗼𝘀 ✓\n ┃\n ┃ » 𝙶�
 // [EN] > BOT VERSION INFORMATION, PLEASE KEEP THIS UNCHANGED, WE STRIVE DAILY TO PROVIDE YOU WITH A BOT FOR THE COMMUNITY, BE GRATEFUL
 global.vs = "1.7.0"
 global.vsJB = "5.0 (Beta)"
-global.gt = "𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿"
+global.gt = "Lynx Bot"
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
